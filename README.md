@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <body>
-	<img src="https://ssalman.com/assets/images/githubheadersalman.png" alt="Salman Koohestani">
+	<img src="https://ssalman.com/assets/images/githubheadersalmank.png" alt="Salman Koohestani">
 	<header>
 		<h2>Name</h2>
 		<ul id="header-left" title="mail and phone">
