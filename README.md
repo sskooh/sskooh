@@ -3,11 +3,11 @@
 <body>
 	<img src="https://ssalman.com/assets/images/githubheadersalmank.png" alt="Salman Koohestani">
 	<header>
-		<h2>Name</h2>
+		<h2>Salman</h2>
 		<ul id="header-left" title="mail and phone">
-      <li>Address</li>
-			<li>City, State 55555</li>
-			<li>Phone</li>
+      <li>Address: 4th Floor, Number 7, Sorena Alley, Sohravardi Shomal, Tehran, Iran</li>
+			<li>Whatsapp: <a href="https://wa.me/989198203801" target="_blank"> 989198203801 </a></li>
+			<li>Phone: <a href="tel:+989198203801"> 989198203801 </a></li>
 		</ul>
 		<ul id="header-right" title="web">
 			<li>Email</li>
