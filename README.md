@@ -16,14 +16,11 @@
 		</ul>
 	</header>
 	<section id="education"><h3>Education</h3>
-		<ul title="education">
-		<li>
+		
 
 BACHELOR OF SCIENCE IN COMPUTER AND SOFTWARE AZAD UNIVERSITY of GARMSAR, Iran
 
-       		</ul>
-       	</li>
-		</ul>
+      
 	</section>
 <section id="skills"><h3>Skills</h3>
 		<ul title="skills">
