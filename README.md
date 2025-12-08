@@ -18,12 +18,9 @@
 	<section id="education"><h3>Education</h3>
 		<ul title="education">
 		<li>
-13/11/2007 – 14/09/2009 Garmsar, Iran
+
 BACHELOR OF SCIENCE IN COMPUTER AND SOFTWARE AZAD UNIVERSITY of GARMSAR, Iran
-Website https://garmsar.iau.ir/
-15/11/2001 – 12/09/2003 Tehran, Iran
-ASSOCIATE’S DEGREE OF APPLICATION OF COMPUTER AZAD UNIVERSITY of TEHRAN WEST, Iran
-Website https://wtb.iau.ir/
+
        		</ul>
        	</li>
 		</ul>
