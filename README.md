@@ -21,7 +21,7 @@
 BACHELOR OF SCIENCE IN COMPUTER AND SOFTWARE AZAD UNIVERSITY of GARMSAR, Iran
 
       
-	</section>
+
 <section id="skills"><h3>Skills</h3>
 		<ul title="skills">
 <p>
