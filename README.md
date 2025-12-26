@@ -11,7 +11,7 @@
 		</ul>
 		<ul id="header-right" title="web">
 			<li>Email :<a href="mailto:sskooh@gmail.com"> sskooh@gmail.com</a> </li>
-			<li>Web site :<a href="https://ssalman.com"> https://ssalman.com</a> </li>
+		
 			<li>LinkedIn :<a href="https://www.linkedin.com/in/seyed-salman-koohestani/"> https://www.linkedin.com/in/seyed-salman-koohestani/</a></li>
 		</ul>
 	</header>
