@@ -4,23 +4,28 @@
 	<img src="https://ssalman.com/assets/images/githubheadersalmank.png" alt="Salman Koohestani">
 
 
-		<ul id="header-left" title="mail and phone">
-      <li>Address : 4rd Fl., No.7, Maryam Alley, Khalil Hoseini St., North Sohrevardi St.,Beheshti St., 1576995618 , Tehran, Iran</li>
-			<li>Whatsapp :<a href="https://wa.me/989198203801" target="_blank"> +989198203801 </a></li>
-			<li>Phone : <a href="tel:+989198203801"> +989198203801 </a></li>
-		</ul>
-		<ul id="header-right" title="web">
-			<li>Email :<a href="mailto:sskooh@gmail.com"> sskooh@gmail.com</a> </li>
-		
-			<li>LinkedIn :<a href="https://www.linkedin.com/in/seyed-salman-koohestani/"> https://www.linkedin.com/in/seyed-salman-koohestani/</a></li>
-		</ul>
-
-	<section id="education"><h3>Education</h3>
 		
 
-BACHELOR OF SCIENCE IN COMPUTER AND SOFTWARE AZAD UNIVERSITY of GARMSAR, Iran
 
-      
+
+
+<section id="Address "><h3>Address</h3>
+	
+<li>4rd Fl., No.7, Maryam Alley, Khalil Hoseini St., North Sohrevardi St.,Beheshti St., 1576995618 , Tehran, Iran</li>
+<section id="Whatsapp "><h3>Whatsapp</h3>
+	
+<li>Whatsapp :<a href="https://wa.me/989198203801" target="_blank"> +989198203801 </a></li>
+<section id="Phone "><h3>Phone</h3>
+	<li>Phone : <a href="tel:+989198203801"> +989198203801 </a></li>
+<section id="Email"><h3>Email</h3>
+	<li>Email :<a href="mailto:sskooh@gmail.com"> sskooh@gmail.com</a> </li>
+<section id="LinkedIn"><h3>LinkedIn</h3>
+		<li>LinkedIn :<a href="https://www.linkedin.com/in/seyed-salman-koohestani/"> https://www.linkedin.com/in/seyed-salman-koohestani/</a></li>
+<section id="Education "><h3>Education</h3>
+	
+<li>BACHELOR OF SCIENCE IN COMPUTER AND SOFTWARE AZAD UNIVERSITY of GARMSAR, Iran</li>
+
+
 
 <section id="skills"><h3>Skills</h3>
 		<ul title="skills">
