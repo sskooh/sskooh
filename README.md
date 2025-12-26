@@ -2,8 +2,8 @@
 
 <body>
 	<img src="https://ssalman.com/assets/images/githubheadersalmank.png" alt="Salman Koohestani">
-	<header>
-		<h2></h2>
+
+
 		<ul id="header-left" title="mail and phone">
       <li>Address : 4rd Fl., No.7, Maryam Alley, Khalil Hoseini St., North Sohrevardi St.,Beheshti St., 1576995618 , Tehran, Iran</li>
 			<li>Whatsapp :<a href="https://wa.me/989198203801" target="_blank"> +989198203801 </a></li>
@@ -14,7 +14,7 @@
 		
 			<li>LinkedIn :<a href="https://www.linkedin.com/in/seyed-salman-koohestani/"> https://www.linkedin.com/in/seyed-salman-koohestani/</a></li>
 		</ul>
-	</header>
+
 	<section id="education"><h3>Education</h3>
 		
 
