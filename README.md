@@ -44,12 +44,8 @@ media and Digital Marketing (SEO). skilled in SEO tools like ScreamingFrog, Semr
  
   </a>
   <br>
-<a href="https://skillicons.dev">
-    <img src="https://ssalman.com/assets/images/mssqlserver.png" /><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis,postgres" />
 
  
-  </a>
-  <br>
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,htmx,bootstrap,css,tailwind,angular,react,nodejs,jquery,js" />
@@ -57,12 +53,8 @@ media and Digital Marketing (SEO). skilled in SEO tools like ScreamingFrog, Semr
  
   </a>
     <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,wordpress,phpstorm,laravel,kotlin,flutter,dart,androidstudio,java,anaconda" />
-
  
-  </a>
-      <br>
+      
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rabbitmq,py,django,postman,linkedin,git,github" />
 
