@@ -31,7 +31,7 @@
 		<ul title="skills">
 <p>
 Senior Web Developer (full-stack developer). Experienced with all stages of the development cycle for dynamic web and
-windows projects. Well-versed in numerous programming languages including C#, VB.NET, .NET Core,PHP, python, java
+windows projects. Well-versed in numerous programming languages including C#, VB.NET, .NET Core
 and MVC architecture.Moreover, skilled in SQL-Server,MongoDB, Redis and no-SQL concepts, Dockers, GitHub, Unit
 testing, Restful API, Razor and Asynchronous programming concepts.
 Strong background in project management and customer relations and techniques to increase website traffic in social
