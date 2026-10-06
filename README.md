@@ -55,7 +55,7 @@ technologies.
  
       
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rabbitmq,postman,linkedin,git,github" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq,postman,git,github" />
 
  
   </a>
