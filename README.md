@@ -55,16 +55,12 @@ technologies.
  
       
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rabbitmq,postman,git,github" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq,postman,git,github,ps" />
 
  
   </a>
-        <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps" />
 
  
-  </a>
 </p>
 		</ul>
 </section>
