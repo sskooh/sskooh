@@ -24,12 +24,17 @@
 <section id="skills"><h3>Skills</h3>
 		<ul title="skills">
 <p>
-Senior Web Developer (full-stack developer). Experienced with all stages of the development cycle for dynamic web and
-windows projects. Well-versed in numerous programming languages including C#, VB.NET, .NET Core
-and MVC architecture.Moreover, skilled in SQL-Server,MongoDB, Redis and no-SQL concepts, Dockers, GitHub, Unit
-testing, Restful API, Razor and Asynchronous programming concepts.
-Strong background in project management and customer relations and techniques to increase website traffic in social
-media and Digital Marketing (SEO). skilled in SEO tools like ScreamingFrog, Semrush, Google Search Console</p>
+Highly skilled and results-driven Software Developer with over 15 years of experience in designing, developing, and 
+maintaining enterprise-level applications using C# and the .NET framework. Proficient in building scalable, 
+high-performance web applications, desktop applications, and services. Expertise in leveraging various .NET 
+technologies such as ASP.NET, ASP.NET Core, Entity Framework, and MVC to create dynamic, secure, and efficient 
+systems. Strong knowledge of object-oriented programming (OOP), database design, and cloud technologies, with 
+experience working with SQL Server and Azure. Adept at utilizing frontend technologies such as HTML, CSS, 
+JavaScript, and React to build responsive UIs and deliver seamless user experiences. Proven ability to collaborate with 
+cross-functional teams, ensuring the delivery of high-quality solutions within deadlines. Continuously committed to 
+learning and adopting best practices, as well as staying updated with the latest advancements in C# and .NET 
+technologies. 
+</p>
 			
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,7 +55,7 @@ media and Digital Marketing (SEO). skilled in SEO tools like ScreamingFrog, Semr
  
       
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rabbitmq,py,django,postman,linkedin,git,github" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq,postman,linkedin,git,github" />
 
  
   </a>
