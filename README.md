@@ -20,7 +20,7 @@
 <section id="Email"><h3>Email</h3>
 	<li>Email :<a href="mailto:sskooh@gmail.com"> sskooh@gmail.com</a> </li>
 <section id="LinkedIn"><h3>LinkedIn</h3>
-		<li>LinkedIn :<a href="https://www.linkedin.com/in/seyed-salman-koohestani/"> https://www.linkedin.com/in/seyed-salman-koohestani/</a></li>
+		<li>LinkedIn :<a href="https://www.linkedin.com/in/salmankooh/"> https://www.linkedin.com/in/salmankooh/</a></li>
 <section id="Education "><h3>Education</h3>
 	
 <li>BACHELOR OF SCIENCE IN COMPUTER AND SOFTWARE AZAD UNIVERSITY of GARMSAR, Iran</li>
